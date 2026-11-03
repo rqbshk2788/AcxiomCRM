@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AcxiomCRM Enterprise Edition
 
 A Customer Relationship Management System developed using Python and Flask.
@@ -22,3 +23,6 @@ python "Acxiom Consulting.py"
 ## Local URL
 
 http://127.0.0.1:5000
+=======
+# AcxiomCRM
+>>>>>>> abe4a3ba5424a8a935da36c9f5f8ad4b3b91984d
